@@ -2,11 +2,13 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
-P = theoretically _solvable_ in O(n^k) time.
+**P** = theoretically _solvable_ in O(n^k) time. ["Easy" to solve](https://en.wikipedia.org/wiki/P_versus_NP_problem#Does_P_mean_%22easy%22?).
 
-NP = theoretically _verifiable_ in O(n^k) time.
+**NP** = theoretically _verifiable_ in O(n^k) time. "Easy" to verify.
 
 P ⊆ NP, but is P = NP? It seems so far that P ≠ NP.
+
+In other words, "easy" problems can be "easy" to verify. But if a solution is "easy" to verify, is there always an "easy" way to solve the problem? It seems so far that there will always exist problems that are "harder" to solve than to verify.
 
 Diagram from <https://en.wikipedia.org/wiki/P_versus_NP_problem> :
 
