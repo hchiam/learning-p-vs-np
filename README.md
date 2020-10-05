@@ -1,10 +1,10 @@
-# Learning P vs NP
+# Learning P vs NP problems
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
 **P** = theoretically _solvable_ in O(n^k) time. ["Easy" to solve](https://en.wikipedia.org/wiki/P_versus_NP_problem#Does_P_mean_%22easy%22?).
 
-**NP** = theoretically _verifiable_ in O(n^k) time. "Easy" to verify.
+**NP** = theoretically _verifiable_ in O(n^k) time. "Easy" to verify. Example: Sudoku is in NP, but does not seem to be in P.
 
 P ⊆ NP, but is P = NP? It seems so far that P ≠ NP.
 
