@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+To oversimplify, P = easy, NP = hard.
+
 **P** = theoretically _solvable_ in O(n^k) time. ["Easy" to solve](https://en.wikipedia.org/wiki/P_versus_NP_problem#Does_P_mean_%22easy%22?).
 
 **NP** = theoretically _verifiable_ in O(n^k) time. "Easy" to verify. Example: Sudoku is in NP, but does not seem to be in P.
